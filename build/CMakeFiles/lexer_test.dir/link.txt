@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/lexer_test.dir/Tests/Lexer_Tests/Test1.cpp.o -o lexer_test  libesp.a 

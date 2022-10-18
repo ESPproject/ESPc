@@ -1,0 +1,4 @@
+/home/alex/Coding/My_Compiler/ESPc/build/CMakeFiles/esp.dir
+/home/alex/Coding/My_Compiler/ESPc/build/CMakeFiles/lexer_test.dir
+/home/alex/Coding/My_Compiler/ESPc/build/CMakeFiles/edit_cache.dir
+/home/alex/Coding/My_Compiler/ESPc/build/CMakeFiles/rebuild_cache.dir

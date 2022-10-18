@@ -1,0 +1,2 @@
+/usr/bin/ar qc libesp.a CMakeFiles/esp.dir/Lexer/Lexer.cpp.o CMakeFiles/esp.dir/Lexer/Token.cpp.o
+/usr/bin/ranlib libesp.a
